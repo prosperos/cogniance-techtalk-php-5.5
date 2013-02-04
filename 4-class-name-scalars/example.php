@@ -1,4 +1,7 @@
 <?php
+/**
+ * https://wiki.php.net/rfc/class_name_scalars
+ */
 
 namespace Example;
 
